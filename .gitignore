@@ -1,0 +1,4 @@
+# pyinstaller builds
+build/
+dist/
+QR코드생성기.spec
